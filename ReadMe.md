@@ -1,5 +1,5 @@
 # 👨‍💼 About Me:
-< p > Muito prazer, sou o Ramon. Tenho 17 anos e atualmente <br>estou trabalhando como instrutor de TI. Estou estudando <br>para me tornar um desenvolvedor Full Stack. Quero poder<br>ajudar muitas outras pessoas a alcaçar os mesmos objetivos <br>que o meu />
+< p > Muito prazer, sou o Ramon. Tenho 18 anos e atualmente <br>estou trabalhando como instrutor de TI. Estou estudando <br>para me tornar um desenvolvedor Full Stack. Quero poder<br>ajudar muitas outras pessoas a alcaçar os mesmos objetivos <br>que o meu />
 
 
 ## 📲 Socials:
